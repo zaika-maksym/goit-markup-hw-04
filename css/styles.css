@@ -688,7 +688,7 @@ ol {
     display: flex;
     padding-left: 495px;
     margin-top: 94px;
-
+    
 }
 
 .buttons-list {
@@ -700,8 +700,6 @@ ol {
 }
 
 .filter-nav-btn {
-    font-family: Roboto;
-    font-style: normal;
     color: #212121;
     font-weight: 500;
     font-size: 16px;
@@ -744,6 +742,7 @@ ol {
 
      
 }
+
 
 .lowercase {
     text-transform: lowercase;
